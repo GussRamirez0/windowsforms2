@@ -1,0 +1,10 @@
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Windows Forms 2\Desafio 2\bin\Debug\Desafio 2.exe.config
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Windows Forms 2\Desafio 2\bin\Debug\Desafio 2.exe
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Windows Forms 2\Desafio 2\bin\Debug\Desafio 2.pdb
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Windows Forms 2\Desafio 2\obj\Debug\Desafio 2.csproj.AssemblyReference.cache
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Windows Forms 2\Desafio 2\obj\Debug\Desafio_2.Form1.resources
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Windows Forms 2\Desafio 2\obj\Debug\Desafio_2.Properties.Resources.resources
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Windows Forms 2\Desafio 2\obj\Debug\Desafio 2.csproj.GenerateResource.cache
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Windows Forms 2\Desafio 2\obj\Debug\Desafio 2.csproj.CoreCompileInputs.cache
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Windows Forms 2\Desafio 2\obj\Debug\Desafio 2.exe
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Windows Forms 2\Desafio 2\obj\Debug\Desafio 2.pdb
